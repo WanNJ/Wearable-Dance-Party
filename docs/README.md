@@ -1,5 +1,3 @@
-# Wearable LEDs
-
 ## INNOVATIONS
 > Hand signals are given by cyclists and some motorists to indicate their intentions to other traffic. Under the terms of the Vienna Convention on Traffic, bicycles are considered to be vehicles and cyclists are considered to be drivers. The traffic codes of most countries reflect this.<br>
 In some countries (such as in the Czech Republic, Canada, and the United States), hand signals are designated not only for cyclists, but for every vehicle that does not have signal lights or has damaged signal lights. For example, drivers of older cars and mopeds may be required to make hand signals.
