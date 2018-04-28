@@ -179,6 +179,7 @@ SignalClassifier::State bikeState = SignalClassifier::State::IDLE;
 
 // MUSIC
 
+// Exclude music mode for demo purpose.
 #define EXCLUSE_MUSIC
 
 #ifndef EXCLUSE_MUSIC
@@ -207,7 +208,7 @@ MusicSignal musicSignal(NB_STRIPS, NB_LEDS, &microphone);
 
 
 void setup() {
-// Open serial communications and wait for port to open:
+  // Open serial communications and wait for port to open:
   // A baud rate of 115200 is used instead of 9600 for a faster data rate
   // on non-native USB ports
   Serial.begin(115200);
